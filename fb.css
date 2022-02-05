@@ -1,0 +1,72 @@
+section{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    box-shadow: 10px;
+}
+
+header{
+    border: auto 0;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+    text-align:center;
+    color:rgb(74, 153, 221);
+    font-size: 10mm;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.main h3, .main p {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+    display: block;
+}
+
+.firstname {
+    text-align: center;
+    margin: 10px 20px; 
+    
+}
+
+.mail {
+    text-align: center;
+    display: block;
+}
+
+.password{
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+}
+
+.db{
+    text-align: center;
+    display: block;
+}
+
+.gn{
+    text-align: center;
+    display: block;
+}
+
+.f{
+    margin: 10px solid black;
+}
+
+.lastpara{
+    width: 400px;
+    margin-left: 500px;
+    font-size: small;
+}
+
+.submit{
+    text-align: center;
+    color:aliceblue;
+    
+    
+    }
